@@ -1,4 +1,8 @@
 ---
 title: Welcome to my blog
 ---
-hi
+<html>
+  <head>
+    <title>sheeshies bitchies</title> 
+  </head>
+</html>
